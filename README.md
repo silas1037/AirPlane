@@ -13,6 +13,6 @@ Windeployqt AirPlane.exe
 
 (可搜索)数据库系统概论习题解析 第5版
 
-下载地址：
+文件下载地址：
 
 <https://github.com/ultrapre/AirPlane/releases/tag/V1.0>
