@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>notify_template.html</file>
+        <file>bill_template.html</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
